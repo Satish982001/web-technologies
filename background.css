@@ -1,0 +1,12 @@
+p
+{
+color:red;
+font-size:30px;
+}
+body
+{
+background-image:url('flower.jpg');
+background-size:1000px ;
+background-repeat:repeat;
+background-position:right;
+}
